@@ -264,7 +264,7 @@ footer {
     Intro section              
 -----------------------------------------*/
 #intro {
-    background: url('intro-bg.jpg');
+    background: url('../intro-bg.jpg');
    background-attachment: fixed;
     background-size: contain;
     background-position: bottom;
